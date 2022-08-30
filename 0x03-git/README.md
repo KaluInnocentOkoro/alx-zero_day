@@ -1,10 +1,11 @@
 Toggle navigation[](https://alx-intranet.hbtn.io/)
 
+You just released the optional tasks of this project. Have fun!
+
 0x03. Git
 =========
 
-GitCode versioningGithub
-
+GitCode versioningGithuby
 ### Concepts
 
 *For this project, we expect you to look at these concepts:*
@@ -106,7 +107,7 @@ You can follow [this tutorial](https://alx-intranet.hbtn.io/rltoken/ArBVmv-Vj5Z
 
 Once it's created, you should have a token that looks like this:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/a449483cd76a72cef1b42df831e686c64faa1cf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fcab77b21ee3ad06a899b0f1e1ce0aaffefe62cf0dcf4635c49e351f1c446471)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/a449483cd76a72cef1b42df831e686c64faa1cf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T195345Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=aaabc9e99b18c059044deb9ceec0f1ddcbc76d23d98e51e608f828b8dc9ce81d)
 
 #### Step 2 - Update your profile on the Intranet
 
@@ -114,7 +115,7 @@ Update your Intranet profile by adding your Github username [here](https://alx-
 
 If it's not done **the Checker won't be able to correct your work**
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0e65031b1d905363d522bf17fc110a909fd8d3912251932ac614820a24517891)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T195345Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=bb8e48790a1383ff7293a10fea6df35792e047528d3bf087019d08afac09921a)
 
 #### Step 3 - Create your first repository
 
@@ -125,13 +126,13 @@ Using the graphic interface on the [github website](https://alx-intranet.hbtn.i
 -   Public repo
 -   No `README`, `.gitignore`, or license
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a37182f3859cf91af6b0232b7e0b85c936ca763ad1bc8725b4cd22a2f2b8142c)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T195345Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=550c89536bb0acbbaf5c1cb9f67bdce72734912e4c17d057a23469cdf52ad23e)
 
 #### Step 4 - Open the sandbox
 
-On the intranet, just under the task, click on the button ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ca3c5031be91b4f034c6d33935b48e1f40de6a542f136368f14aa6e4db286b19) and `run` to start the machine.
+On the intranet, just under the task, click on the button ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T195345Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0692c11833ffc2b97e13a8f89615b4a3c4e6579c88442826c9d83c1b097ec3d9) and `run` to start the machine.
 
-Once the container is started, click on ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=79da894706f016154620fc8454687e0514f3f8458cb41ec11b01d52bea0bc39a) to open a shell where you can start work from.
+Once the container is started, click on ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T195345Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=56e9fdf45d98b8d49611faf7dadaaa6e2d1e3e1a1da40f90e9e20b6aa5c4de0f) to open a shell where you can start work from.
 
 #### Step 5 - Clone your repository
 
@@ -315,6 +316,46 @@ After you have done that, in your terminal:
 
  Done? Help Check your code Get a sandbox
 
-[Done with the mandatory tasks? Unlock 2 advanced tasks now!](https://alx-intranet.hbtn.io/projects/1/unlock_optionals)
+### 5\. HAAA what did you do???
+
+#advanced
+
+Collaboration is cool, but not really when you update the same file at the same time...
+
+To illustrate that, please merge the branch `update_script` to `main`: "Cool, all my changes will be now part of the main branch, ready to be deployed!"
+
+**HHHHHHHAAAAAAAA**
+
+```
+CONFLICT (content): Merge conflict in bash/alx
+
+```
+
+As you can see, you have conflicts between two branches on the same file.
+
+Your goal now is to resolve conflicts by using the version of the branch `update_script`, and push the result to the origin.
+
+At the end, you should have all your work from the branch `update_script` (new file and two updated files) and all latest `main` commits (new files, delete folder, etc.), *without* conflicts.
+
+**Repo:**
+
+-   GitHub repository: `alx-zero_day`
+-   Directory: `0x03-git`
+
+ Done? Help Check your code Get a sandbox
+
+### 6\. Never push too much
+
+#advanced
+
+Create a `.gitignore` file and define a rule to never push `~` files (generated by Emacs). [Tips](https://alx-intranet.hbtn.io/rltoken/sEKIVnR2lEL0sN4jc26hhA "Tips")
+
+**Repo:**
+
+-   GitHub repository: `alx-zero_day`
+-   Directory: `0x03-git`
+-   File: `.gitignore`
+
+ Done? Help Check your code Get a sandbox
 
 Copyright © 2022 ALX, All rights reserved.
