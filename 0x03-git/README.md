@@ -1,173 +1,9 @@
-[Optional] Vagrant
-==================
-
-DevOpsVirtual machine
-
--   By: Julien Barbier
--   Weight: 1
--   Project will start Aug 29, 2022 6:00 AM, must end by Sep 3, 2022 6:00 AM
--   was released at Aug 29, 2022 6:00 AM
--   An auto review will be launched at the deadline
-
-### Concepts
-
-*For this project, we expect you to look at this concept:*
-
--   [Using Vagrant on your personal computer](https://alx-intranet.hbtn.io/concepts/81)
-
-Vagrant - or - how to code in your local computer
--------------------------------------------------
-
-Sandboxes are great, but you can also do your ALX assessments on your local computer - having a virtual machine (VM) is the perfect tool for that.
-
-Let's dig into **Vagrant** today!
-
-Also:
-
--   This project is **100% optional**
--   This project **can't be done in Sandboxes** - it can be done only in your local computer.
-
-Resources
----------
-
-**Read or watch**:
-
--   [Virtual machine](https://alx-intranet.hbtn.io/rltoken/eoV8V_5fgzW_UhJ3PtVyWw "Virtual machine")
--   [man uname](https://alx-intranet.hbtn.io/rltoken/Z4MowYniH5YJoZo4jZgIBw "man uname")
-
-Learning Objectives
--------------------
-
-At the end of this project, you are expected to be able to [explain to anyone](https://alx-intranet.hbtn.io/rltoken/g5OVhHRsT0jjsvUI1Y8jgw "explain to anyone"), **without the help of Google**:
-
-### General
-
--   What is a virtual machine
--   What is Vagrant
--   Who wrote Vagrant
--   What is Ubuntu
--   What does "Ubuntu" mean
--   How to use VMs with Vagrant
--   What does the command `uname` do
-
-### Copyright - Plagiarism
-
--   You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
--   You will not be able to meet the objectives of this or any following project by copying and pasting someone else's work.
--   You are not allowed to publish any content of this project.
--   Any form of plagiarism is strictly forbidden and will result in removal from the program.
-
-Requirements
-------------
-
-### General
-
--   A `README.md` file at the root of the repo, containing a description of the repository
--   A `README.md` file, at the root of the folder of *this* project (i.e. `0x00-vagrant`), describing what this project is about
-
-More Info
----------
-
-### Install `git`
-
-If `git` is not already installed on your terminal:
-
-```
-$ sudo apt-get update
-$ sudo apt-get upgrade
-$ sudo apt-get install git
-
-```
-
-### Basic usage
-
-At the end of this project you should be able to reproduce and understand these command lines:
-
-```
-$ git clone <repo>
-$ touch test
-$ git add test
-$ git commit -m "Initial commit"
-$ git push origin main
-
-```
-
-### Warning
-
-This project **can't be done in Sandboxes** - it can be done only in your local computer. Please refer to our concept pages for your operating system.
-
-### Quiz questions
-
-**Great!** You've completed the quiz successfully! Keep going! (Show quiz)
-
-Tasks
------
-
-### 0\. Create and setup your Git and GitHub account
-
-#advanced
-
-You will need Git for this project, you might have to [install it](https://alx-intranet.hbtn.io/rltoken/7kPsched1VMPOY2bdvZvGQ "install it") on your computer if it's not done yet.
-
--   Configure your basic info (name, email) on your local machine -- they will be part of your commits. [Tips](https://alx-intranet.hbtn.io/rltoken/oAAqmPJ1ftZZhUjaw7FvjA "Tips")
-
-On [GitHub.com](https://alx-intranet.hbtn.io/rltoken/4vp5Qze3WATHKtytzT2_UA "GitHub.com"):
-
--   Using the graphic interface on the website, create the repository (if it's not done yet)
-    -   Description: `This is my first repository as a full-stack engineer`
-    -   Public repo: `zero_day`
-    -   No `README`, `.gitignore`, or license
-
-On your computer, open a terminal and do the following:
-
--   Navigate to your home directory. [Tips](https://alx-intranet.hbtn.io/rltoken/YeOwsN-vhfSCbNjgE01Gag "Tips")
--   Create a directory `zero_day`. [Tips](https://alx-intranet.hbtn.io/rltoken/hWrqqlilEv8L6yqpyt1TTA "Tips")
--   Navigate to this new directory. [Tips](https://alx-intranet.hbtn.io/rltoken/za58mq537U6U775osQ8bfQ "Tips")
--   Initialize git and add the remote origin
--   Create a file `README.md` with Emacs (or other command line editors) and write a small [Markdown](https://alx-intranet.hbtn.io/rltoken/VV79mKOEf5mXVbKpH4i63Q "Markdown") text to present this project. **This file is mandatory in projects**
--   Add this new file to git, commit the change with this message "My first commit" and push to the remote server / origin (Note: You will probably need to set your login/password to push to the remote server)
-
-Good job!
-
-You pushed your first file in your **first repository** of the **first task** of your **first School project**.
-
-**Repo:**
-
--   GitHub repository: `zero_day`
--   File: `README.md`
-
- Done? Help Check your code
-
-### 1\. Hello Ubuntu
-
-#advanced
-
-Inside the `zero_day` repo, create a new directory called `0x00-vagrant`. Add a `README.md` file to this directory.
-
-`ssh` into your Ubuntu VM. What does the command `uname` print when you run it without any option?
-
-Type your answer into a file in the `0x00-vagrant` directory and push it to GitHub. Name your file accordingly as shown below.
-
-**Repo:**
-
--   GitHub repository: `zero_day`
--   Directory: `0x00-vagrant`
--   File: `0-hello_ubuntu`
-
- Done? Help Check your code
-
-Copyright © 2022 ALX, All rights reserved.,Toggle navigation[](https://alx-intranet.hbtn.io/)
+Toggle navigation[](https://alx-intranet.hbtn.io/)
 
 0x03. Git
 =========
 
 GitCode versioningGithub
-
--   By: Guillaume
--   Weight: 1
--   Project will start Aug 30, 2022 6:00 AM, must end by Aug 31, 2022 6:00 AM
--   was released at Aug 30, 2022 6:00 AM
--   An auto review will be launched at the deadline
 
 ### Concepts
 
@@ -270,7 +106,7 @@ You can follow [this tutorial](https://alx-intranet.hbtn.io/rltoken/ArBVmv-Vj5Z
 
 Once it's created, you should have a token that looks like this:
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/a449483cd76a72cef1b42df831e686c64faa1cf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T074032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=04ae324f06036b4ed68e29887aef88979bf53d2ebe972e781e6a5031804afcc2)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/a449483cd76a72cef1b42df831e686c64faa1cf6.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=fcab77b21ee3ad06a899b0f1e1ce0aaffefe62cf0dcf4635c49e351f1c446471)
 
 #### Step 2 - Update your profile on the Intranet
 
@@ -278,7 +114,7 @@ Update your Intranet profile by adding your Github username [here](https://alx-
 
 If it's not done **the Checker won't be able to correct your work**
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T074032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e3cec342c6ec79860a39c365da23068baae6c9d8948884c95422f74d05bf9b4b)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/6270480a0a982cd1846b877eda2ee405d2e8f575.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=0e65031b1d905363d522bf17fc110a909fd8d3912251932ac614820a24517891)
 
 #### Step 3 - Create your first repository
 
@@ -289,13 +125,13 @@ Using the graphic interface on the [github website](https://alx-intranet.hbtn.i
 -   Public repo
 -   No `README`, `.gitignore`, or license
 
-![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T074032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=24b4cc98cc21cfb8639619edcdb3e863947eff89310a8800b341c9db9ea5daa9)
+![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/2340a2d0f7c74b5dd6f8fc2aa58f94d13ea2c775.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=a37182f3859cf91af6b0232b7e0b85c936ca763ad1bc8725b4cd22a2f2b8142c)
 
 #### Step 4 - Open the sandbox
 
-On the intranet, just under the task, click on the button ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T074032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=918816a51af59cdb3301566f09470a589f013124cbd8e20209481474c94db6f7) and `run` to start the machine.
+On the intranet, just under the task, click on the button ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/9db8eece71455dfddf4b7d8585c037c535f1d18d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ca3c5031be91b4f034c6d33935b48e1f40de6a542f136368f14aa6e4db286b19) and `run` to start the machine.
 
-Once the container is started, click on ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T074032Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=e8a2b6a434edd65e715f24cf2e20ea190fab87a5f4d63310cfefb708b77fae20) to open a shell where you can start work from.
+Once the container is started, click on ![](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2022/2/be9d1fbfb3d97e6924a4d2af7df9290ad7ae77df.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220830%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220830T192955Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=79da894706f016154620fc8454687e0514f3f8458cb41ec11b01d52bea0bc39a) to open a shell where you can start work from.
 
 #### Step 5 - Clone your repository
 
@@ -372,7 +208,7 @@ You can now check your repository on GitHub to see if everything is good.
 -   GitHub repository: `alx-zero_day`
 -   File: `README.md`
 
- Done? Help Check your code Get a sandbox
+ Done! Help Check your code Get a sandbox
 
 ### 1\. Repo-session
 
@@ -391,7 +227,7 @@ And important part: **Make sure your commit and push your code to Github - othe
 
 -   GitHub repository: `alx-zero_day`
 
- Done? Help Check your code Get a sandbox
+ Done! Help Check your code Get a sandbox
 
 ### 2\. Coding fury road
 
