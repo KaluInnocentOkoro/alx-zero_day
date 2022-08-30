@@ -1,7 +1,3 @@
-Toggle navigation[](https://alx-intranet.hbtn.io/)
-
-You just released the optional tasks of this project. Have fun!
-
 0x03. Git
 =========
 
